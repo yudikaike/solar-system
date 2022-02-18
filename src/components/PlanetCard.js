@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Image from './Image';
 
 class PlanetCard extends Component {
   render() {
@@ -6,6 +7,7 @@ class PlanetCard extends Component {
     return (
       <div data-testid="planet-card">
         <p data-testid="planet-name">{planetName}</p>
+        <Image src={ planetImage } alt={ planetName } />
       </div>
     );
   }
