@@ -1,16 +1,21 @@
-# 🚧 README em construção 🚧
+<h1>Solar System</h1>
 
-<!-- Olá, Tryber!
+<h2>Descrição sobre o projeto</h2>
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+<i>Solar System</i> é uma página que lista os planetas do sistema solar e as principais missões espaciais, desenvolvido para a prática da estruturação e dos conceitos básicos do <b>React.js</b>.
 
-É essencial que você preencha esse documento por conta própria, ok?
+<h2>Tecnologias utilizadas</h2>
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+<h2>Como executar o projeto</h2>
 
--->
+Para instalar as dependências:
+```bash
+npm install
+```
+
+Para executar o projeto:
+```bash
+npm start
+```
